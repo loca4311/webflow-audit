@@ -1,0 +1,20 @@
+{
+  "name": "webflow-broken-images",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@notionhq/client": "^5.4.0",
+    "cheerio": "^1.0.0-rc.12",
+    "got": "^11.8.6",
+    "p-limit": "^3.1.0",
+    "probe-image-size": "^7.2.3",
+    "xml2js": "^0.5.0"
+  }
+}
